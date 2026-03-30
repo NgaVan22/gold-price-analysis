@@ -15,3 +15,7 @@ Phân tích dữ liệu giá vàng và dự đoán xu hướng.
 
 ## ▶️ How to run
 Mở file `Gold_financial.ipynb` bằng Jupyter Notebook
+
+## 👨‍💻 Author
+
+Nga Van
