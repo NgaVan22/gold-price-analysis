@@ -1,9 +1,15 @@
 # Gold Price Analysis
 
-## 📊 Overview
-Phân tích dữ liệu giá vàng và dự đoán xu hướng.
+## 📌 Overview
+
+Dự án phân tích dữ liệu giá vàng và dự đoán xu hướng.
+
+## 📊 Dataset
+
+gold_financial_data
 
 ## 🔧 Technologies
+
 - Python
 - Pandas
 - Matplotlib
